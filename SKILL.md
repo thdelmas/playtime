@@ -42,7 +42,7 @@ Actually do it. Build the toy, call the API for real, feed your skill the absurd
 
 ### 5. Harvest
 
-Play that isn't harvested is just entertainment; harvested play is development. Write the learning where it lasts — hand it to [rem-sleep](https://github.com/thdelmas/rem-sleep) / a `feedback` or `reference` memory: the tool's gotchas, the skill's failure mode, the recombination that worked, the thing you'd do differently for real. One concrete, reusable takeaway is enough.
+Play that isn't harvested is just entertainment; harvested play is development. Write the learning where it lasts — hand it to [rem-sleep](https://github.com/thdelmas/rem-sleep) / a `feedback` or `reference` memory: the tool's gotchas, the skill's failure mode, the recombination that worked, the thing you'd do differently for real. One concrete, reusable takeaway is enough — but check the store doesn't already hold it before writing; a takeaway the store already records is a confirmation, not a discovery, so link it rather than duplicate it.
 
 ### 6. Return
 
